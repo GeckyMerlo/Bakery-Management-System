@@ -63,8 +63,8 @@ Before running the program, ensure your system has:
 
 2. **Clone the repository and navigate to the source folder**  
    ```bash
-   git clone https://github.com/<your-username>/Bakery-Simulation.git
-   cd Bakery-Simulation
+   git clone https://github.com/GeckyMerlo/Bakery-Management-System.git
+   cd Bakery-Management-System
    ```
 
 3. **Build the program**  
